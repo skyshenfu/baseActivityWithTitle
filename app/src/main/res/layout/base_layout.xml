@@ -4,5 +4,5 @@
     android:id="@+id/root_layout"
     android:background="#FFFFFF"
     android:layout_height="match_parent">
-    <include layout="@layout/top_lyout"/>
+    <include layout="@layout/top_layout"/>
 </LinearLayout>
